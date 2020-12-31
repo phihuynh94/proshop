@@ -8,6 +8,7 @@ import Loader from "../components/Loader";
 
 import { getUserDetails, updateUserProfile } from "../actions/userActions";
 import { listMyOrders } from "../actions/orderActions";
+import { USER_UPDATE_PROFILE_RESET } from "../constants/userConstants";
 
 const ProfileScreen = ({ location, history }) => {
   const [name, setName] = useState("");
@@ -35,6 +36,8 @@ const ProfileScreen = ({ location, history }) => {
       history.push("/login");
     } else {
       if (!user || !user.name || success) {
+        dispatch({ type: USER_UPDATE_PROFILE_RESET });
+
         dispatch(getUserDetails("profile"));
         dispatch(listMyOrders());
       } else {
