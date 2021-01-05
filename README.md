@@ -17,3 +17,7 @@ Home / Product List Screen
 Product Details Screen
 
 ![product details](screenshots/product.png)
+
+Shopping Cart Screem
+
+![shopping cart](screenshots/cart.png)
