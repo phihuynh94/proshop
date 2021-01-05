@@ -16,4 +16,4 @@ Home / Product List Screen
 
 Product Details Screen
 
-!(screenshots/product.png)
+![product details](screenshots/product.png)
