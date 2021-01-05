@@ -10,3 +10,4 @@ The project is live at: https://phih-proshop.herokuapp.com/
 
 # Screen Shots
 
+![alt text](screenshots/1.png "Home / Product List Screem")
