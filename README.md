@@ -12,4 +12,4 @@ The project is live at: https://phih-proshop.herokuapp.com/
 
 Home / Product List Screen
 
-![home](screenshots/home1.png)
+![home](screenshots/home.png)
