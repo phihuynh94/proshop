@@ -22,6 +22,20 @@ The notable technologies implemented in this project are Redux for State Managem
 2. Open the project in your IDE and run the following command on your command line:
 ```
 npm install
+cd frontend
+npm install
+```
+3. Create a .env file in the root with the following:
+```
+NODE_ENV = development
+PORT = 5000
+MONGO_URI = your mongodb uri
+JWT_SECRET = 'abc123'
+PAYPAL_CLIENT_ID = your paypal client id
+```
+4. Then you can run the below command to run the project:
+```
+npm run dev
 ```
 
 ## Screen Shots
