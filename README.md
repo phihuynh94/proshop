@@ -13,3 +13,7 @@ The project is live at: https://phih-proshop.herokuapp.com/
 Home / Product List Screen
 
 ![home](screenshots/home.png)
+
+Product Details Screen
+
+(screenshots/product.png)
