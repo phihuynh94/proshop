@@ -18,6 +18,54 @@ Product Details Screen
 
 ![product details](screenshots/product.png)
 
-Shopping Cart Screem
+Shopping Cart Screen
 
 ![shopping cart](screenshots/cart.png)
+
+Shipping Address Screen
+
+![shipping address](screenshots/shipping-address.png)
+
+Payment Method Screen
+
+![payment method](screenshots/payment-method.png)
+
+Place Order Screen
+
+![place order](screenshots/place-order.png)
+
+Payment Screen
+
+![payment](screenshots/payment-screen.png)
+
+Order Screen
+
+![order screen](screenshots/order-screen.png)
+
+Admin User List Screen
+
+![admin user list screen](screenshots/admin-user-list.png)
+
+Admin Product List Screen
+
+![admin list product screen](screenshots/admin-product-list.png)
+
+Admin Order List Screen
+
+![admin order list screen](screenshots/admin-order-list.png)
+
+Search
+
+![search](screenshots/search.png)
+
+Sign-in Screen
+
+![sign-in](screenshots/sign-in.png)
+
+Sign-up Screen
+
+![sign-up](screenshots/sign-up.png)
+
+User Profile
+
+![user-profile](screenshots/user-profile.png)
